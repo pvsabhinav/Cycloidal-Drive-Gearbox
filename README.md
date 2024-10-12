@@ -15,4 +15,5 @@
 - 30 4x8x3 mm bearings
 - Assorted M4 Bolts and nuts. [Here](https://www.amazon.com/iExcell-Stainless-Socket-Button-Assortment/dp/B08Z7GQVQ9/ref=asc_df_B08Z7GQVQ9/?tag=hyprod-20&linkCode=df0&hvadid=693270340296&hvpos=&hvnetw=g&hvrand=3282987389614031573&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9194707&hvtargid=pla-1349145647708&mcid=820881df888c36f7a72e8f1f966980ca&th=1) is a set of bolts I reccomend
 
-**Link to video**
+[**Link to video**](https://drive.google.com/file/d/1M7n9Yk40CGF0MDWzt1fGfLzIRFFRU5Fq/view?usp=sharing)
+
