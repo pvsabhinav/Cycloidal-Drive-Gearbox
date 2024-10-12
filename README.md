@@ -8,6 +8,7 @@
 
 **Parts List**
 - 3D printed parts (all parts to print are in the files above)
+- I used an Eaglepower (kv90) brushless motor, but the motor case file can be edited to adapt to any motor
 - 2 55x72x9 mm bearing
 - M4 Brass Heat-Set threaded inserts (try to get the knurled ones)
 - 2 1/2x1-1/8x5/16 **in** bearing (note: this bearing is in inches, not mm, as I could not find a bearing in mm that fit my needs)
