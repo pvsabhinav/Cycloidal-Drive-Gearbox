@@ -17,3 +17,6 @@
 
 [**Link to video**](https://drive.google.com/file/d/1M7n9Yk40CGF0MDWzt1fGfLzIRFFRU5Fq/view?usp=sharing)
 
+**Acknowledgments**
+- Maximilian Schommer - [Onshape FeatureScript for Cycloidal Gears](https://cad.onshape.com/documents/347e6a9ae9d0992f4b101a70/w/d85d62ab1c292cc0d3314104/e/39a63585c0c29cabbfacb536)
+- Not an Engineer - [Video](https://www.youtube.com/watch?v=YFJJkZm796I) helped me better understand the how cycloidal drive gearboxes worked
